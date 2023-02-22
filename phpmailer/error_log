@@ -1,0 +1,6 @@
+[19-Aug-2018 05:05:40 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home2/crossroa/public_html/phpmailer/email.php on line 55
+[19-Aug-2018 05:06:03 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home2/crossroa/public_html/phpmailer/email.php on line 55
+[19-Aug-2018 05:07:41 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home2/crossroa/public_html/phpmailer/email.php on line 55
+[19-Aug-2018 05:12:16 UTC] PHP Fatal error:  Call to undefined method PHPMailer::addImage() in /home2/crossroa/public_html/phpmailer/email.php on line 57
+[19-Aug-2018 05:18:39 UTC] PHP Warning:  Missing argument 2 for PHPMailer::AddEmbeddedImage(), called in /home2/crossroa/public_html/phpmailer/email.php on line 57 and defined in /home2/crossroa/public_html/phpmailer/PHPMailer_5.2.0/class.phpmailer.php on line 1909
+[19-Aug-2018 05:19:54 UTC] PHP Warning:  Missing argument 2 for PHPMailer::AddEmbeddedImage(), called in /home2/crossroa/public_html/phpmailer/email.php on line 57 and defined in /home2/crossroa/public_html/phpmailer/PHPMailer_5.2.0/class.phpmailer.php on line 1909
